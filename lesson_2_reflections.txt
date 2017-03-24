@@ -3,3 +3,6 @@ When you create a repository, you are creating a .git folder in your current dir
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging are is an intermediate area before commiting files to the repository. It adds the value of selecting specific files to track and also making sure you're ready to commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can use the staging area to compare it to the working directory or the most recent commit. You can see the differences and therefore see the logical changes you're making.
